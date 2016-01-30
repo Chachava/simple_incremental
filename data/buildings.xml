@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buildings>
+	<building id="1" name="Building 1" base="2" cost="10" />
+	<building id="2" name="Building 2" base="6" cost="125" />
+	<building id="3" name="Building 3" base="20" cost="600" />
+	<building id="4" name="Building 4" base="65" cost="1800" />
+	<building id="5" name="Building 5" base="200" cost="5600" />
+	<building id="6" name="Building 6" base="650" cost="38000" />
+	<building id="7" name="Building 7" base="2000" cost="442000" />
+	<building id="8" name="Building 8" base="8500" cost="7300000" />
+</buildings>
