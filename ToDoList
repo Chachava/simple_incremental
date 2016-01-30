@@ -1,0 +1,4 @@
+>>  Add in tooltip for buildings which display when you hover over them, they should tell you their production amount per building as well as total
+>>  Make it so buildings only appear once you have at least 1 of the previous building, aside from the first. 
+>>  Add in upgrades for click count and each of the buildings. 
+>>>>>>  I'll also need to figure out a way to add these upgrades and calculate production/s etc. 
